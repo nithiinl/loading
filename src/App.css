@@ -1,0 +1,16 @@
+
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  margin-top: 50px;
+}
+
+.box{
+  border: 25px solid black;
+  padding: 25px;
+}
+
+
+
